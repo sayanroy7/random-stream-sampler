@@ -1,0 +1,3 @@
+jar:
+	mvn clean package
+
